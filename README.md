@@ -37,7 +37,7 @@ You will be done in ~15 minutes or less.
 
 2. Fetch a copy of the bash file
    ```sh
-   curl –o checkandupdate.sh https://github.com/gitsoft/SteamCMD-Linux-Game-Server-Updater/blob/master/checkandupdate.sh
+   curl https://raw.githubusercontent.com/gitsoft/SteamCMD-Linux-Game-Server-Updater/main/checkandupdate.sh --output checkandupdate.sh
    ```
 3. Make the bash file executable
 
