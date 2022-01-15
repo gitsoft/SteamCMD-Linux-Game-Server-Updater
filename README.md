@@ -168,7 +168,7 @@ Here is an overview that might help you.
 
 ## Contributing
 
-**You don't.** 🙂 I lack time and enthusiasm for debating with stranger over issues, pull requests and additional ideas that would make this simple script into a bloated project with all sorts of dependencies. You are probably a nice person - but please fuck off. 🕊️
+**You don't.** 🙂 I lack both time and will to debate with strangers over issues, pull requests and additional ideas that would make this simple script into a bloated project with all sorts of dependencies. You are probably a nice person - but please fuck off. 🕊️
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
